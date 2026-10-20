@@ -1,3 +1,5 @@
+Upstream note (T-199): every plan names the command that proves each step.
+
 ---
 name: writing-plans
 description: Use when you have a spec or requirements for a multi-step task, before touching code
