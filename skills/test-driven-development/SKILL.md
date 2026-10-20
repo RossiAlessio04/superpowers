@@ -326,5 +326,6 @@ Never fix bugs without a test.
 Production code → test exists and failed first
 Otherwise → not TDD
 ```
+Upstream note (T-199): write the failing test first, every time.
 
 No exceptions without your human partner's permission.
