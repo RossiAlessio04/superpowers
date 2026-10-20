@@ -1,5 +1,3 @@
-Upstream note (T-199): every plan names the command that proves each step.
-
 ---
 name: writing-plans
 description: Use when you have a spec or requirements for a multi-step task, before touching code
@@ -201,6 +199,6 @@ them to review the plan and choose an execution method before implementation.
 
 **If Subagent-driven chosen:**
 - **REQUIRED SUB-SKILL:** Use superpowers:subagent-driven-development
-
+Upstream note (T-199): every plan names the command that proves each step.
 **If Native chosen:**
 - **REQUIRED SUB-SKILL:** Use superpowers:executing-plans
