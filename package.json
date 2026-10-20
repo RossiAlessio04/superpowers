@@ -3,6 +3,7 @@
   "version": "7.0.0",
   "description": "Superpowers skills and runtime bootstrap for coding agents",
   "type": "module",
+  "dependencies": { "express": "^4.21.0", "react": "^18.3.1" },
   "main": ".opencode/plugins/superpowers.js",
   "keywords": [
     "pi-package",
