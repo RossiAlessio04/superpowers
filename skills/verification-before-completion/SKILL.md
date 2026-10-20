@@ -118,3 +118,5 @@ Skip any step = lying, not verifying
 - Paraphrases and synonyms
 - Implications of success
 - ANY communication suggesting completion/correctness
+
+Upstream note (T-199): paste the command output, not a summary of it.
